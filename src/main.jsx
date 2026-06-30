@@ -4,7 +4,7 @@ import { BrowserRouter } from "react-router-dom";
  
 import App from "./App";
  
-import WishlistProvider from "./context/WishlistContext";
+import WishlistProvider from "./Context/WishlistContext";
  
 import "./index.css";
  
