@@ -7,7 +7,7 @@ import axios from "axios";
 import "../styles/details.css";
 
 import { useContext } from "react";
-import { WishlistContext } from "../context/WishlistContext";
+import { WishlistContext } from "../Context/WishlistContext";
  
 function CarDetails() {
  
