@@ -16,14 +16,14 @@ import Login from "./Pages/Login";
 
 import CarDetails from "./Pages/CarDetails";
 
-import Dashboard from "./Pages/Dashboard/Dashboard";
+import Dashboard from "./Pages/DashBoard/Dashboard";
 
 
-import Profile from "./Pages/Dashboard/Profile";
+import Profile from "./Pages/DashBoard/Profile";
 
-import TestDrives from "./Pages/Dashboard/TestDrives";
+import TestDrives from "./Pages/DashBoard/TestDrives";
 
-import Settings from "./Pages/Dashboard/Settings";
+import Settings from "./Pages/DashBoard/Settings";
  
 function App() {
  
@@ -47,7 +47,7 @@ function App() {
  
     <Route path="login" element={<Login />} />
 
-    <Route path="dashboard" element={<Dashboard />}>
+    <Route path="dashboard" element={<DashBoard />}>
  
     <Route index element={<Profile />} />
  
