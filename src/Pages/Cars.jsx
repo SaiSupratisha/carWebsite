@@ -1,9 +1,9 @@
 import { useSearchParams } from "react-router-dom";
  
-import CarCard from "../components/CarCard";
-import Loader from "../components/Loader";
-import SearchBar from "../components/SearchBar";
-import Pagination from "../components/Pagination";
+import CarCard from "../Components/CarCard";
+import Loader from "../Components/Loader";
+import SearchBar from "../Components/SearchBar";
+import Pagination from "../Components/Pagination";
 import useFetchCars from "../hooks/useFetchCars";
  
 import "../styles/cars.css";
