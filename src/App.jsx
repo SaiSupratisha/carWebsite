@@ -1,29 +1,29 @@
 import { Routes, Route } from "react-router-dom";
  
-import Layout from "./pages/Layout";
+import Layout from "./Pages/LayOut";
  
-import Home from "./pages/Home";
+import Home from "./Pages/Home";
 
-import Cars from "./pages/Cars";
+import Cars from "./Pages/Cars";
 
-import About from "./pages/About";
+import About from "./Pages/About";
 
-import Contact from "./pages/Contact";
+import Contact from "./Pages/Contact";
 
-import Wishlist from "./pages/Wishlist";
+import Wishlist from "./Pages/Wishlist";
 
-import Login from "./pages/Login";
+import Login from "./Pages/Login";
 
-import CarDetails from "./pages/CarDetails";
+import CarDetails from "./Pages/CarDetails";
 
-import Dashboard from "./pages/dashboard/Dashboard";
+import Dashboard from "./Pages/DashBoard/Dashboard";
 
 
-import Profile from "./pages/dashboard/Profile";
+import Profile from "./Pages/DashBoard/Profile";
 
-import TestDrives from "./pages/dashboard/TestDrives";
+import TestDrives from "./Pages/DashBoard/TestDrives";
 
-import Settings from "./pages/dashboard/Settings";
+import Settings from "./Pages/DashBoard/Settings";
  
 function App() {
  
