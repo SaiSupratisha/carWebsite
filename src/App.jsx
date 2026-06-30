@@ -16,14 +16,14 @@ import Login from "./Pages/Login";
 
 import CarDetails from "./Pages/CarDetails";
 
-import Dashboard from "./Pages/dashboard/Dashboard";
+import Dashboard from "./Pages/Dashboard/Dashboard";
 
 
-import Profile from "./Pages/dashboard/Profile";
+import Profile from "./Pages/Dashboard/Profile";
 
-import TestDrives from "./Pages/dashboard/TestDrives";
+import TestDrives from "./Pages/Dashboard/TestDrives";
 
-import Settings from "./Pages/dashboard/Settings";
+import Settings from "./Pages/Dashboard/Settings";
  
 function App() {
  
