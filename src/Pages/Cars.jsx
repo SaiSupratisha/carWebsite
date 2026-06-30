@@ -4,7 +4,7 @@ import CarCard from "../Components/CarCard";
 import Loader from "../Components/Loader";
 import SearchBar from "../Components/SearchBar";
 import Pagination from "../Components/Pagination";
-import useFetchCars from "../hooks/useFetchCars";
+import useFetchCars from "../Hooks/useFetchCars";
  
 import "../styles/cars.css";
  
